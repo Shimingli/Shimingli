@@ -21,7 +21,6 @@
 |  [应用市场](https://appgallery.huawei.com/#/app/C100693629)    |   [应用市场](https://appgallery.huawei.com/#/app/C101641625)      
 
 - **Make a good App, do not be evil in this world, help other people, and at the same time bring additional income for yourself. If you have good ideas, we can discuss and share experiences together, looking forward to your email: lamshiming@sina.com**
-- The ultimate dream, to be a high school physics or math teacher. April 21, 2022
 
 - **做好一款App，在这个世界不作恶，帮助其他人，同时能够为自己带来额外的收入。如果你有好的想法，我们可以一起探讨，一起分享经验，期待你的邮件 ：lamshiming@sina.com**
 - 终极梦想，当一名高中物理or数学老师。2022年4月21日
