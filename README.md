@@ -7,6 +7,14 @@
 
 [comment]: <> (- 《Flutter开发实战详解》作者，公众号 GSYTech，一个爱猫的程序猿老司机，一个兴趣使然的攻城喵，二次元超级护发使者。)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shimingli)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Shimingli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimingli)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimingli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 - Android、Flutter， 默默写 SpringBoot、vue、小程序。
 - 终极梦想，当一名老师 
 - 2022年4月21日
