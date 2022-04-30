@@ -13,9 +13,10 @@
 [![Shimingli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimingli)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimingli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+| LED字幕     |  生活备忘录    
+|---------|--------- |
+|  [点我](https://appgallery.huawei.com/#/app/C100693629)    |   [点我](https://appgallery.huawei.com/#/app/C101641625)      
 
 
-- Android、Flutter， 默默写 SpringBoot、vue、小程序。
-- 终极梦想，当一名老师 
-- 2022年4月21日
+- 终极梦想，当一名高中物理or数学老师。2022年4月21日
 
