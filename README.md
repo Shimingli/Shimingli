@@ -7,13 +7,13 @@
     >  Java/Kotlin、Dart、Vue、Go、C++...... 
 - :floppy_disk: 总是离不开移动端，自己开发维护了几个App
     > 生活备忘录、声音频率器、板牙画板、单位转换通、LED字幕
-    记账清单、账号本、实用工具箱、生活助手...... 
+    > 记账清单、账号本、实用工具箱、生活助手...... 
 - :books: 为了工作，水过一些证
     > 英语4、6级证书
-    Google Associate Android Developer、
-    Certified ScrumMaster (CSM)、
-    Google Cloud Professional Developer、
-    IBM Mobile App Development Certification
+    >  Google Associate Android Developer、
+    >  Certified ScrumMaster (CSM)、
+    >  Google Cloud Professional Developer、
+    >  IBM Mobile App Development Certification
     
 - :trophy: GitHub帐户的巅峰时刻
     > 2018年完成了一个安卓画笔效果、整理开源，获得了380+Star 
